@@ -1,5 +1,4 @@
-## Alex Wagner
-# Z23817628
+
 
 
 ## Program Info
